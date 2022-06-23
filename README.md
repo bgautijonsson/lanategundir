@@ -1,4 +1,4 @@
 # lanategundir
 
 
-Þetta github hýsir kóðann á bak við HTML skýrslu sem ég setti á [RPubs síðuna mína](https://rpubs.com/bgautijonsson/917969).
+Þetta github hýsir kóðann á bak við HTML skýrslu sem er [líka hýst á GitHub](https://bgautijonsson.github.io/lanategundir/).
