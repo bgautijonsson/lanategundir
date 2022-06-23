@@ -21,6 +21,9 @@ self-contained: true
 execute:
     echo: true
     warning: false
+project:
+    type: website
+    output-dir: docs
 ---
 
 
